@@ -1,17 +1,17 @@
 
-# 📞 Telecom Customer Churn Prediction
+#  Telecom Customer Churn Prediction
 
 This project aims to predict whether a telecom customer will churn (leave the service) using supervised machine learning. By identifying high-risk customers in advance, telecom companies can take proactive steps to retain them.
 
 ---
 
-## 📊 Problem Statement
+##  Problem Statement
 
 Customer churn is a significant concern in the telecom industry. Retaining existing customers is often more cost-effective than acquiring new ones. This project uses historical customer data to build a predictive model that identifies churn patterns based on customer demographics, services, and account details.
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 - **Source:** [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Size:** ~7,000 records
@@ -23,7 +23,7 @@ Customer churn is a significant concern in the telecom industry. Retaining exist
 
 ---
 
-## 🧠 Techniques Used
+##  Techniques Used
 
 - Data Cleaning & Preprocessing
 - Feature Engineering (One-Hot Encoding, Scaling)
@@ -34,7 +34,7 @@ Customer churn is a significant concern in the telecom industry. Retaining exist
 
 ---
 
-## 🧪 Model Performance
+##  Model Performance
 
 | Metric              | Score   |
 |---------------------|---------|
@@ -45,7 +45,7 @@ Customer churn is a significant concern in the telecom industry. Retaining exist
 
 ---
 
-## 🔍 Top 5 Drivers of Churn
+##  Top 5 Drivers of Churn
 
 Based on feature importance from Random Forest:
 
